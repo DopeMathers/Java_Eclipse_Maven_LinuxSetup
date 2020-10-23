@@ -1,8 +1,9 @@
-# Java_Eclipse_Maven_LinuxSetup
+# Java_Eclipse_Maven_LinuxSetup Deutsch
 
   ## Download:
 * [ ] https://jdk.java.net/15/ (JDK Downloaden)
 * [ ] https://gluonhq.com/products/javafx/ (JMODS Donwloaden)
+* [ ] https://www.eclipse.org/downloads/ (Eclipse Donwloaden)
 * [ ] https://gluonhq.com/products/scene-builder/ (SceneBuilder Downloaden)
 
   ## JDK erstellen:
